@@ -1,2 +1,0 @@
-FROM httpd:latest
-# httpd:latest is an image that is vulnerable
