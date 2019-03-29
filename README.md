@@ -1,2 +1,2 @@
-# demo_pipeline
-demo_pipeline
+# demo-pipeline
+demo-pipeline
